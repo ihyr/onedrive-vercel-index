@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'Telegram',
-      link: 'https://t.me/durov',
+      link: 'https://t.me/Durov',
     },
   ],
 
